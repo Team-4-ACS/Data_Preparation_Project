@@ -1,0 +1,6 @@
+Feature Engineering Steps:
+1. Selected relevant features for analysis.
+2. Created new features: Tenure groups and MonthlyCharges bins.
+3. Standardized numerical features: tenure, MonthlyCharges.
+4. Split the dataset into training and testing sets.
+5. Saved the preprocessed data for model training.
